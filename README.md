@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.libreno.de): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Whizanth](https://www.whizanth.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [LibreNode](https://www.librenode.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Whizanth/librenode-status/workflows/Uptime%20CI/badge.svg)](https://github.com/Whizanth/librenode-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Whizanth/librenode-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Whizanth/librenode-status/actions?query=workflow%3A%22Response+Time+CI%22)
