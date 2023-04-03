@@ -11,8 +11,6 @@ sites:
     url: https://git.librenode.org
   - name: Libreddit
     url: https://libreddit.librenode.org
-  - name: Lufi
-    url: https://lufi.librenode.org
   - name: Mastodon.pro
     url: https://mastodon.pro
   - name: Matrix
