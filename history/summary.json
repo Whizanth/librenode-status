@@ -4,9 +4,9 @@
     "url": "https://www.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.librenode.org.ico",
     "slug": "libre-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 606,
     "timeMonth": 599,
     "timeYear": 599,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-03": 0
+    }
   },
   {
     "name": "Accounts",
@@ -76,18 +78,20 @@
     "url": "https://lufi.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/lufi.librenode.org.ico",
     "slug": "lufi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 758,
-    "timeDay": 755,
-    "timeWeek": 710,
-    "timeMonth": 758,
-    "timeYear": 758,
-    "dailyMinutesDown": {}
+    "time": 746,
+    "timeDay": 686,
+    "timeWeek": 698,
+    "timeMonth": 746,
+    "timeYear": 746,
+    "dailyMinutesDown": {
+      "2023-04-03": 0
+    }
   },
   {
     "name": "Mastodon.pro",
