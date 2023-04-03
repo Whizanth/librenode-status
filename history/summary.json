@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.librenode.org.ico",
     "slug": "libre-node",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 602,
     "timeDay": 679,
     "timeWeek": 610,
     "timeMonth": 602,
     "timeYear": 602,
-    "dailyMinutesDown": {
-      "2023-04-03": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Accounts",
@@ -79,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lufi.librenode.org.ico",
     "slug": "lufi",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "98.10%",
+    "uptimeDay": "81.01%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "98.10%",
     "time": 746,
     "timeDay": 686,
     "timeWeek": 698,
     "timeMonth": 746,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2023-04-03": 10
+      "2023-04-03": 273
     }
   },
   {
@@ -134,18 +132,20 @@
     "url": "https://cloud.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.librenode.org.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1988,
-    "timeDay": 2211,
-    "timeWeek": 2035,
-    "timeMonth": 1988,
-    "timeYear": 1988,
-    "dailyMinutesDown": {}
+    "time": 1872,
+    "timeDay": 1403,
+    "timeWeek": 1855,
+    "timeMonth": 1872,
+    "timeYear": 1872,
+    "dailyMinutesDown": {
+      "2023-04-03": 0
+    }
   },
   {
     "name": "Nitter",
