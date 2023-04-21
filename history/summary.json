@@ -138,18 +138,20 @@
     "url": "https://nitter.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.librenode.org.ico",
     "slug": "nitter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
-    "timeDay": 595,
-    "timeWeek": 574,
+    "timeDay": 568,
+    "timeWeek": 570,
     "timeMonth": 545,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-21": 0
+    }
   },
   {
     "name": "Relay",
