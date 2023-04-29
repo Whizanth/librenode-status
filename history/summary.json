@@ -4,28 +4,30 @@
     "url": "https://www.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.librenode.org.ico",
     "slug": "libre-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 610,
     "timeDay": 571,
     "timeWeek": 601,
     "timeMonth": 615,
     "timeYear": 610,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-29": 2
+    }
   },
   {
     "name": "Accounts",
     "url": "https://account.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/account.librenode.org.ico",
     "slug": "accounts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1034,
@@ -33,17 +35,19 @@
     "timeWeek": 974,
     "timeMonth": 1039,
     "timeYear": 1034,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-29": 2
+    }
   },
   {
     "name": "Gitea",
     "url": "https://git.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.librenode.org.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
@@ -51,25 +55,28 @@
     "timeWeek": 685,
     "timeMonth": 777,
     "timeYear": 756,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-29": 2
+    }
   },
   {
     "name": "Libreddit",
     "url": "https://libreddit.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/libreddit.librenode.org.ico",
     "slug": "libreddit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1719,
     "timeDay": 1530,
-    "timeWeek": 1598,
+    "timeWeek": 1624,
     "timeMonth": 1712,
     "timeYear": 1719,
     "dailyMinutesDown": {
+      "2023-04-29": 2,
       "2023-04-22": 16
     }
   },
@@ -78,10 +85,10 @@
     "url": "https://mastodon.pro",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.pro.ico",
     "slug": "mastodon-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 756,
@@ -90,6 +97,7 @@
     "timeMonth": 772,
     "timeYear": 756,
     "dailyMinutesDown": {
+      "2023-04-29": 1,
       "2023-04-09": 40
     }
   },
@@ -98,10 +106,10 @@
     "url": "https://matrix.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.librenode.org.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 875,
@@ -109,25 +117,28 @@
     "timeWeek": 830,
     "timeMonth": 886,
     "timeYear": 875,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-29": 1
+    }
   },
   {
     "name": "NextCloud",
     "url": "https://cloud.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.librenode.org.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "89.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "87.66%",
-    "uptimeYear": "89.35%",
+    "status": "down",
+    "uptime": "89.51%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "87.65%",
+    "uptimeYear": "89.51%",
     "time": 1888,
     "timeDay": 1886,
     "timeWeek": 1932,
     "timeMonth": 1880,
     "timeYear": 1888,
     "dailyMinutesDown": {
+      "2023-04-29": 1,
       "2023-04-12": 1099,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
@@ -140,18 +151,19 @@
     "url": "https://nitter.librenode.org",
     "icon": "https://icons.duckduckgo.com/ip3/nitter.librenode.org.ico",
     "slug": "nitter",
-    "status": "up",
-    "uptime": "95.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "91.01%",
+    "status": "down",
+    "uptime": "95.47%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.81%",
     "uptimeMonth": "94.67%",
-    "uptimeYear": "95.40%",
+    "uptimeYear": "95.47%",
     "time": 549,
     "timeDay": 396,
     "timeWeek": 545,
     "timeMonth": 554,
     "timeYear": 549,
     "dailyMinutesDown": {
+      "2023-04-29": 0,
       "2023-04-22": 946,
       "2023-04-21": 1389
     }
@@ -161,9 +173,9 @@
     "url": "https://relay.mastodon.pro",
     "icon": "https://icons.duckduckgo.com/ip3/relay.mastodon.pro.ico",
     "slug": "relay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -172,6 +184,8 @@
     "timeWeek": 521,
     "timeMonth": 542,
     "timeYear": 535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-29": 0
+    }
   }
 ]
